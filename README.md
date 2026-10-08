@@ -20,4 +20,5 @@ In your solution you must provide the following in your Github link account:
 - Uploaded java codes for the solution.
 
 ## UML Class Diagram
+<img width="1531" height="480" alt="image" src="https://github.com/user-attachments/assets/691591ff-c28b-4b23-a50f-bae835a75ac6" />
 
